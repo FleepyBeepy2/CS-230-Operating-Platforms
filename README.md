@@ -66,5 +66,3 @@ How did you approach designing software? What techniques or strategies would you
 
 I approached it by considering both the client side and the server side as well as the hardware needed to support the server. I would use the same strategies that the template used. I would list out all of the functional requirements, design requirements, and consider which platform or hardware would be best suited given the limitations from the customer and the limitations from within the work environment.
 
-
-
